@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OpenSky.FlightLogXML\OpenSky.AirportsJSON.csproj" />
+    <ProjectReference Include="..\OpenSky.AirportsJSON\OpenSky.AirportsJSON.csproj" />
   </ItemGroup>
 
 </Project>
