@@ -64,6 +64,13 @@ namespace OpenSky.AirportsJSON.Tests
                 Size = 5,
                 SupportsSuper = true,
                 XP11 = true,
+                S2Cell3 = 5134103575202365440,
+                S2Cell4 = 5147614374084476928,
+                S2Cell5 = 5146488474177634304,
+                S2Cell6 = 5146769949154344960,
+                S2Cell7 = 5146558842921811968,
+                S2Cell8 = 5146576435107856384,
+                S2Cell9 = 5146580833154367488
             };
 
             var r1129 = new Runway
