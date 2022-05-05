@@ -61,6 +61,7 @@ namespace OpenSky.AirportsJSON.Tests
                 Longitude = 16.569721221923828,
                 MSFS = true,
                 Name = "Schwechat",
+                City = "Vienna",
                 Size = 5,
                 SupportsSuper = true,
                 XP11 = true,
